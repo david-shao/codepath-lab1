@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cool Login</string>
+    <string name="google_button">Google</string>
+    <string name="facebook_button">Facebook</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+</resources>
